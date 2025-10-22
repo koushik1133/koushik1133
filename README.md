@@ -132,7 +132,7 @@ Researching **biometric defenses against synthetic voice attacks** using AI and 
 ## 💡 Profile Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koushik1133&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Koushik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=koushik1133&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=prs,issues,contribs" alt="Koushik's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik1133&layout=compact&theme=tokyonight" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com/?user=koushik1133&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://github-profile-trophy.vercel.app/?username=koushik1133&theme=tokyonight&margin-w=10&column=6" alt="Trophies" />
