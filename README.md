@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-2C8EBB?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Developer" />
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Open%20Source%20Contributor-9C27B0?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
-  <img src="https://img.shields.io/badge/Lifelong%20Learner-00BFA5?style=for-the-badge&logo=readme&logoColor=white" alt="Lifelong Learner" />
 </p>
 
 ---
