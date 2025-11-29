@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Student @ Iowa State University**  
 💻 **AI Agents | Data Science | Full-Stack Development**  
-📍 *Graduating December 2025*  
+📍 *Graduating May 2026*  
 
 ---
 
