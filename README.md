@@ -44,46 +44,69 @@ With experience across **React, Node.js, Spring Boot, Python, and Java**, I’m 
 ---
 
 ## 📂 Featured Projects  
+🤖 AI Agent Project
 
-### 🤖 [AI Agent Project](https://lnkd.in/grbFAMmQ)  
-**Tech:** FastAPI · Supabase (PostgreSQL) · Google Gemini AI · HTML · CSS · JS  
-An AI-powered agent that translates natural language into SQL queries for seamless interaction with a Supabase database.  
-Built during **GDG ISU & AIML Club AI Workshop 🚀**  
+Tech: FastAPI · Supabase (PostgreSQL) · Google Gemini AI · HTML · CSS · JS Developed a Generative AI interface that bridges natural language and database management.
 
----
+Engineered an NLP pipeline using Google Gemini API to parse user prompts and auto-generate accurate SQL queries.
 
-### 🤖 Robot – Autonomous Robotics Project  
-**Tech:** Python · Raspberry Pi · Machine Learning  
-Developed a fully functional robot using Raspberry Pi and ML-based obstacle detection.  
-- Implemented autonomous navigation with sensor feedback  
-- Integrated ML for adaptive pathfinding  
-- Documented the project for future ISU robotics teams  
+Integrated Supabase (PostgreSQL) to execute generated queries, allowing non-technical users to interact with complex datasets.
 
----
+Built a lightweight frontend to visualize query results in real-time.
 
-### 🎵 [Melodify](https://github.com/koushik1133)  
-**Tech:** React · Node.js · MongoDB · YouTube API  
-An interactive platform for music discovery featuring integrated YouTube previews and a responsive UI.  
+Achievement: Built during GDG ISU & AIML Club AI Workshop 🚀.
 
----
+🤖 Robot – Autonomous Robotics Project
 
-### 🦍 Donkey Kong Multiplayer Game  
-**Tech:** Java · Spring Boot · WebSocket · SQL  
-Built multiplayer backend synchronization using WebSocket with optimized performance.  
+Tech: Python · Raspberry Pi · Machine Learning · YOLOv8 Developed a fully functional 4-wheel drive robot focusing on autonomous navigation.
 
----
+Engineered a hardware-software interface using Raspberry Pi 4 to control motor drivers and process sensor data.
 
-### 🧱 Roguelike Dungeon Game  
-**Tech:** C/C++  
-Designed a text-based dungeon crawler with multiplayer capabilities and procedural level generation.  
+Implemented computer vision using YOLOv8 models for real-time object detection and dynamic obstacle avoidance.
 
----
+Programmed adaptive pathfinding algorithms to navigate environments without manual intervention.
 
-### 🗣️ ArguVista  
-**Tech:** HTML · CSS · JavaScript  
-Created a debate and discussion platform — *Runner-up at SR Institute Web Dev Competition (2024).*  
+Collaborated in a 4-student team to document wiring schematics and code structure for future ISU course material.
 
----
+🎵 Melodify
+
+Tech: React · Node.js · MongoDB · YouTube API Designed and deployed a full-stack interactive music blog and discovery platform.
+
+Architected a MERN stack application (MongoDB, Express, React, Node.js) featuring a responsive, component-based UI.
+
+Integrated the YouTube Data API to dynamically fetch and embed video previews within user-generated blog posts.
+
+Implemented secure user authentication and CRUD operations for managing posts and comments.
+
+🦍 Donkey Kong Multiplayer Game
+
+Tech: Java · Spring Boot · WebSocket · MySQL Built the backend architecture for a real-time multiplayer arcade game interpretation.
+
+Architected a RESTful API using Java Spring Boot to manage game logic and user sessions.
+
+Implemented WebSocket communication to ensure low-latency synchronization of player coordinates and game states across clients.
+
+Optimized database interactions with SQL to efficiently store player stats and global high scores.
+
+🧱 Roguelike Dungeon Game
+
+Tech: C/C++ Designed a text-based dungeon crawler focusing on algorithmic efficiency and memory management.
+
+Developed a procedural map generation algorithm to create unique dungeon layouts for every game session.
+
+Implemented multiplayer capabilities allowing simultaneous exploration and turn-based combat.
+
+Utilized complex data structures and pointers in C/C++ to manage dynamic entity spawning and inventory systems.
+
+🗣️ ArguVista
+
+Tech: HTML · CSS · JavaScript Created a frontend platform dedicated to structured debate and discourse.
+
+Designed a visually engaging and accessible user interface using semantic HTML and modern CSS layouts (Flexbox/Grid).
+
+Implemented client-side scripting for interactive DOM manipulation and form validation.
+
+Achievement: Runner-up at SR Institute Web Dev Competition (Jan 2024).
 
 ## 🔬 Research Experience  
 
