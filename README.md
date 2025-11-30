@@ -1,166 +1,117 @@
-# 👋 Hi, I'm Koushik Goud Shaganti  
+# Hi there, I'm Koushik Goud Shaganti! 👋
 
-🎓 **Computer Science Student @ Iowa State University**  
-💻 **AI Agents | Data Science | Full-Stack Development**  
-📍 *Graduating May 2026*  
+### 🎓 Senior Computer Science Student at Iowa State University
+*Aspiring Software Engineer | Full-Stack Developer | AI & Systems Enthusiast*
 
----
-
-### 🏷️ Badges  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Agent%20Developer-1E90FF?style=for-the-badge&logo=artstation&logoColor=white" alt="AI Agent Developer" />
-  <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Data Science" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-2C8EBB?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Developer" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-9C27B0?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
-</p>
+I am a passionate developer focused on bridging the gap between **AI automation** and **scalable software engineering**. My work ranges from building autonomous robots and MLOps pipelines to architecting real-time distributed systems and full-stack web applications.
 
 ---
 
-## 🚀 About Me  
+## 🛠️ Technical Arsenal
 
-I’m a passionate and forward-thinking **developer and researcher** with a strong foundation in **computer science, AI systems, and software architecture**.  
-I love tackling complex problems, optimizing performance, and building scalable, intelligent, and user-focused systems.  
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
-With experience across **React, Node.js, Spring Boot, Python, and Java**, I’m diving deeper into **AI agent design, machine learning pipelines, and real-time backend systems**.  
+**AI, Machine Learning & Automation**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6584?style=flat&logo=n8n&logoColor=white)
+![MLFlow](https://img.shields.io/badge/MLFlow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 
----
+**Full-Stack & Backend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-## 🧠 Tech Stack  
-
-**Languages:**  
-`JavaScript` · `Python` · `Java` · `C/C++` · `C#` · `SQL` · `HTML` · `CSS`  
-
-**Frameworks & Tools:**  
-`React` · `Node.js` · `Express` · `Spring Boot` · `Hibernate` · `WebSocket` · `Git`  
-
-**Databases:**  
-`MySQL` · `MongoDB` · `Neo4j`  
-
-**Other Tools:**  
-`GitHub` · `GitLab` · `Bootstrap` · `JDBC` · `Power BI`  
-
----
-
-## 📂 Featured Projects  
-🤖 AI Agent Project
-
-Tech: FastAPI · Supabase (PostgreSQL) · Google Gemini AI · HTML · CSS · JS Developed a Generative AI interface that bridges natural language and database management.
-
-Engineered an NLP pipeline using Google Gemini API to parse user prompts and auto-generate accurate SQL queries.
-
-Integrated Supabase (PostgreSQL) to execute generated queries, allowing non-technical users to interact with complex datasets.
-
-Built a lightweight frontend to visualize query results in real-time.
-
-Achievement: Built during GDG ISU & AIML Club AI Workshop 🚀.
-
-🤖 Robot – Autonomous Robotics Project
-
-Tech: Python · Raspberry Pi · Machine Learning · YOLOv8 Developed a fully functional 4-wheel drive robot focusing on autonomous navigation.
-
-Engineered a hardware-software interface using Raspberry Pi 4 to control motor drivers and process sensor data.
-
-Implemented computer vision using YOLOv8 models for real-time object detection and dynamic obstacle avoidance.
-
-Programmed adaptive pathfinding algorithms to navigate environments without manual intervention.
-
-Collaborated in a 4-student team to document wiring schematics and code structure for future ISU course material.
-
-🎵 Melodify
-
-Tech: React · Node.js · MongoDB · YouTube API Designed and deployed a full-stack interactive music blog and discovery platform.
-
-Architected a MERN stack application (MongoDB, Express, React, Node.js) featuring a responsive, component-based UI.
-
-Integrated the YouTube Data API to dynamically fetch and embed video previews within user-generated blog posts.
-
-Implemented secure user authentication and CRUD operations for managing posts and comments.
-
-🦍 Donkey Kong Multiplayer Game
-
-Tech: Java · Spring Boot · WebSocket · MySQL Built the backend architecture for a real-time multiplayer arcade game interpretation.
-
-Architected a RESTful API using Java Spring Boot to manage game logic and user sessions.
-
-Implemented WebSocket communication to ensure low-latency synchronization of player coordinates and game states across clients.
-
-Optimized database interactions with SQL to efficiently store player stats and global high scores.
-
-🧱 Roguelike Dungeon Game
-
-Tech: C/C++ Designed a text-based dungeon crawler focusing on algorithmic efficiency and memory management.
-
-Developed a procedural map generation algorithm to create unique dungeon layouts for every game session.
-
-Implemented multiplayer capabilities allowing simultaneous exploration and turn-based combat.
-
-Utilized complex data structures and pointers in C/C++ to manage dynamic entity spawning and inventory systems.
-
-🗣️ ArguVista
-
-Tech: HTML · CSS · JavaScript Created a frontend platform dedicated to structured debate and discourse.
-
-Designed a visually engaging and accessible user interface using semantic HTML and modern CSS layouts (Flexbox/Grid).
-
-Implemented client-side scripting for interactive DOM manipulation and form validation.
-
-Achievement: Runner-up at SR Institute Web Dev Competition (Jan 2024).
-
-## 🔬 Research Experience  
-
-### 🧩 Protecting Your Voice from Speech Synthesis Attacks *(Ongoing)*  
-Researching **biometric defenses against synthetic voice attacks** using AI and deep learning.  
-- Neural feature extraction and adversarial robustness  
-- Encryption-based ASR protection  
-- TCP-based congestion control for audio transmission security  
+**Cloud, DevOps & Databases**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
 
 ---
 
-## 🏅 Certifications  
+## 📂 Featured Projects
 
-- Full-Stack Web Development – Udemy  
-- Java & MySQL – Udemy  
-- Python Programming – Scaler  
-- Power BI for Business Intelligence  
-- Ethical Hacking Workshop  
-- C# Intermediate – Sololearn  
+### 🧠 AI, MLOps & Robotics
 
----
+#### 🛡️ Network Security – Malicious URL Detection (MLOps)
+*Tech: Python, MLFlow, Docker, AWS (S3, ECR, EC2), FastAPI*
+An end-to-end MLOps pipeline designed to detect security threats. I trained an XGBoost model and containerized it using **Docker**. The system uses **MLFlow** for experiment tracking and is deployed on **AWS EC2**, serving real-time predictions via a **FastAPI** endpoint.
 
-## 🌱 Currently Learning  
+#### 🤖 Autonomous Robot – Embedded Systems & AI
+*Tech: Raspberry Pi, YOLOv8n, Ollama, Python, OpenCV*
+A fully autonomous robot built from scratch. It utilizes **YOLOv8** for real-time object detection and integrates **Ollama** for running local vision models. Key features include dynamic obstacle avoidance and a "Follow Me" mode where the robot tracks a specific target using computer vision coordinates.
 
-- 🤖 **Principles of Artificial Intelligence** — agent-based architectures, reasoning, and search algorithms  
-- 🧠 **Deep Learning & NLP Systems** — transformers, RNNs, and model interpretability  
-- 🧩 **AI Agents for Intelligent Automation** — task-based and conversational AI systems  
-- 🤖 **Robotics Development** — fusing ML and control systems for autonomous motion planning  
+#### 🗣️ [AI Agent – Natural Language to Database](https://lnkd.in/grbFAMmQ)
+*Tech: Google Gemini AI, Supabase (PostgreSQL), FastAPI, React*
+A bridge between human language and database management. This agent uses the **Google Gemini API** to interpret natural English instructions and automatically generate and execute complex **SQL queries** on a Supabase backend, returning visual results to the user.
 
----
+#### 📧 AI Gmail Assistant
+*Tech: n8n, Google AI Studio, Gmail API*
+An intelligent agentic workflow that automates email management. It routes incoming emails, generates concise summaries using LLMs, and auto-labels threads based on context, significantly reducing manual inbox maintenance.
 
-## 🤝 Connect with Me  
-
-📫 **Email:** [koushik9924@gmail.com](mailto:koushik9924@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/koushik-shaganti](https://www.linkedin.com/in/koushik-shaganti)  
-💼 **Portfolio:** [koushik1133.github.io/portfolio1](https://koushik1133.github.io/portfolio1)  
-👨‍💻 **GitHub:** [github.com/koushik1133](https://github.com/koushik1133)  
+#### 🍔 WhatsApp AI Ordering Bot
+*Tech: n8n, WhatsApp API, Google Sheets*
+A conversational commerce bot that handles restaurant ordering. It syncs with **Google Sheets** to manage live inventory and uses natural language processing to understand menu queries and process orders via WhatsApp.
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
+### 💻 Full-Stack Web Development
+
+#### 🏛️ ArguVista – AI Argument Analyzer
+*Tech: Cloudflare Workers, Workers AI, Llama Models, JavaScript*
+A global debate platform leveraging Edge Computing. I built this on **Cloudflare Workers** to ensure sub-30ms latency. It uses **Llama models** running on the edge to analyze arguments and store conversation history in KV storage.
+*Achievement: Runner-up at SR Institute Web Dev Competition (2024).*
+
+#### 🎵 [Melodify – Interactive Music Platform](https://github.com/koushik1133)
+*Tech: MERN Stack (MongoDB, Express, React, Node.js), YouTube API*
+A social music blog platform. It features a responsive UI where users can create posts that dynamically embed video previews using the **YouTube Data API**. The backend handles secure authentication and complex data relationships between users, posts, and comments.
 
 ---
 
-## 💡 Profile Stats  
+### ⚙️ Systems Engineering & Game Dev
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koushik1133&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=prs,issues,contribs" alt="Koushik's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik1133&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=koushik1133&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=koushik1133&theme=tokyonight&margin-w=10&column=6" alt="Trophies" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=koushik1133&theme=tokyo-night" alt="Contribution Graph" />
-</p>
+#### 🦍 Donkey Kong Multiplayer Game
+*Tech: Java, Spring Boot, WebSocket, SQL*
+A backend-heavy re-imagining of the classic arcade game. I engineered a **Java Spring Boot** server that uses **WebSockets** to handle real-time bidirectional communication, ensuring player coordinates and game states are synchronized instantly across different clients.
+
+#### 🧱 Roguelike Dungeon Game
+*Tech: C/C++, Algorithms*
+A text-based dungeon crawler focusing on memory management and algorithmic efficiency. I implemented procedural generation algorithms to create unique maps for every run and built a multiplayer layer to allow simultaneous exploration.
 
 ---
 
-⭐️ *If you like my work, feel free to follow, star, or collaborate!* 🚀  
+### 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=koushik1133&show_icons=true&theme=radical&hide_border=true" alt="Koushik's Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik1133&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</div>
+
+---
+
+### 📫 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/koushik-shaganti">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://koushik1133.github.io/portfolio1/index.html">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:koushik9924@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
