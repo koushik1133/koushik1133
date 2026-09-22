@@ -75,9 +75,18 @@
 
 ### 🚀 **Software Engineer – AI Systems & Automation**
 **LANE Trailer Mfg.** | *Boone, Iowa, USA* | **Jan 2026 – Present**  
+📦 **Repo**: [koushik1133/production-management](https://github.com/koushik1133/production-management) • 🌐 **Live**: [production-management-murex.vercel.app](https://production-management-murex.vercel.app)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Commits-598%2B-blue?style=flat-square&logo=git" alt="598 Commits"/>
+  <img src="https://img.shields.io/badge/Deployments-500%2B_Production-brightgreen?style=flat-square&logo=vercel" alt="500+ Deployments"/>
+  <img src="https://img.shields.io/badge/System-Active_Production_Hub-orange?style=flat-square&logo=target" alt="Active Production"/>
+  <img src="https://img.shields.io/badge/Architecture-Real--Time_Labor_Tracking_%26_TV_Floor-blueviolet?style=flat-square" alt="Architecture"/>
+</p>
+
 *Tech: React, Node.js, TypeScript, Python, Supabase, iLogic, Claude/Gemini APIs, n8n, Pinecone RAG, REST APIs, Agile SDLC*
 * **Co-op to Full-Time Conversion**: Promoted based on measurable business impact across shop-floor automation, cloud data systems, and CAD engineering pipelines.
-* **Production Operations Hub**: Architected a real-time production management system featuring dynamic Kanban scheduling, bay allocation, and multi-department live TV floor dashboards, **boosting manufacturing throughput by 40%**.
+* **Production Operations Hub (598+ Commits, 500+ Deployments)**: Architected a real-time production management system featuring dynamic Kanban scheduling, bay allocation, labor tracking, and multi-department live TV floor dashboards, **boosting manufacturing throughput by 40%**.
 * **Cloud Migration & Spec Engine**: Led migration of legacy paper spec sheets to Supabase; developed model-aware spec sheet engine enabling unified data access across sales, engineering, and assembly.
 * **Quote-to-Production Engine**: Implemented quote automation with granular RBAC and real-time Undo/Redo state management, automating the conversion of customer orders into production backlog items.
 * **CAD & BOM Automation**: Engineered Python and Autodesk iLogic automation scripts for Inventor CAD models and Excel BOM tooling, **reducing manual drafting time by 80%**.
