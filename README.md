@@ -53,9 +53,28 @@
   <img src="assets/claude-stats.png" alt="Claude Code Telemetry Stats" width="95%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.4);" />
 </p>
 
-* **52.6M+ Tokens Streamed** (~2,392× the length of *The Little Prince*).
-* **60,419 Messages (30-day window)** | **107,000+ Lifetime Agent Messages** across **1,130+ Project Session Logs**.
-* **Favorite Model**: Claude Opus 5 | **Active Days**: 27 / 30 | **Peak Velocity**: 7:00 AM daily deep-work focus.
+```
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│  Overview   Models                                                                 [All]   30d   7d  │
+├───────────────────────────────────┬───────────────────────────────────┬──────────────────────────────┤
+│  Sessions                         │  Messages                         │  Total tokens                │
+│  58                               │  107,343                          │  95.4M                       │
+├───────────────────────────────────┼───────────────────────────────────┼──────────────────────────────┤
+│  Active days                      │  Peak hour                        │  Favorite model              │
+│  30                               │  7 AM                             │  Opus 5                      │
+├───────────────────────────────────┴───────────────────────────────────┴──────────────────────────────┤
+│  ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■   │
+│  ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■   │
+│  ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■   │
+│  ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■   │
+│                                                                                                      │
+│  You’ve used ~680× more tokens than Harry Potter and the Philosopher’s Stone.                        │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+* **52.6M+ Tokens (30d)** | **95.4M+ Tokens (All-Time)** (~680× *Harry Potter*).
+* **60,419 Messages (30d)** | **107,343 Messages (All-Time)** across **1,135+ Project Sessions**.
+* **Favorite Model**: Claude Opus 5 | **Active Days**: 30 | **Peak Velocity**: 7:00 AM daily deep-work focus.
 * **Anthropic Certified**: *AI Fluency: Framework & Foundations* (Jul 2026) & *Claude 101* (Jul 2026).
 
 <br/>
@@ -65,9 +84,44 @@
   <img src="assets/antigravity-stats.svg" alt="Google Antigravity SDK Telemetry" width="95%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.4);" />
 </p>
 
-* **406 Autonomous Agent Sessions** executing **120,258 total steps**.
+```
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│  Overview   Subagents   [⚡ Antigravity SDK]                                       [All]   30d   7d  │
+├───────────────────────────────────┬───────────────────────────────────┬──────────────────────────────┤
+│  Sessions                         │  Execution Steps                  │  Autonomous Subagents        │
+│  406                              │  120,508                          │  35+                         │
+├───────────────────────────────────┼───────────────────────────────────┼──────────────────────────────┤
+│  Active Workspaces                │  Max Steps / Single Session       │  Top Agent Mode              │
+│  92                               │  14,058                           │  Autonomous Multi-Agent      │
+├───────────────────────────────────┴───────────────────────────────────┴──────────────────────────────┤
+│  ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■   │
+│  ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■   │
+│  ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■   │
+│  ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■   │
+│                                                                                                      │
+│  Orchestrated ~120,500 autonomous reasoning & tool-calling actions across 92 enterprise codebases.   │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+* **406 Autonomous Agent Sessions** executing **120,508 total steps**.
 * **35+ Specialized Multi-Agent Archetypes** coordinated (DAG orchestration, automated code reviewers, RAG planners, voice agent builders).
 * **14,058 Steps Peak Single Session** deployed in end-to-end full-stack architectures.
+
+<br/>
+
+### 3. Velocity Progression (7d vs. 30d vs. All-Time)
+
+| Metric | 7 Days (Sprint) | 30 Days (Monthly) | All-Time (From Start) |
+| :--- | :---: | :---: | :---: |
+| **Claude Sessions** | 8 | 51 | **58** *(1,135 project logs)* |
+| **Claude Messages** | 17,778 | 60,419 | **107,343 messages** |
+| **Claude Total Tokens** | 17.7M | 52.6M | **~95.4M tokens** |
+| **Claude Active Days** | 7 / 7 | 27 / 30 | **30 days** |
+| **Claude Peak Hour** | 7 AM | 7 AM | **7 AM** |
+| **Claude Favorite Model** | Opus 4.8 | Opus 5 | **Opus 5** |
+| **Antigravity Sessions** | ~24 | ~85 | **406 sessions** |
+| **Antigravity Steps** | ~8,500 | ~32,000 | **120,508 steps** |
+| **Antigravity Codebases** | 4 | 16 | **92 projects** |
 
 ---
 
