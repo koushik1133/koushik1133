@@ -1,0 +1,368 @@
+<svg width="1024" height="664" viewBox="0 0 1024 664" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1024" y2="664" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#151619"/>
+      <stop offset="1" stop-color="#121316"/>
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#1f2127"/>
+      <stop offset="1" stop-color="#1a1b20"/>
+    </linearGradient>
+    <linearGradient id="activeBlue1" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+    <linearGradient id="activeBlue2" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#3b82f6"/>
+    </linearGradient>
+    <linearGradient id="activeBlue3" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#93c5fd"/>
+      <stop offset="1" stop-color="#60a5fa"/>
+    </linearGradient>
+    <linearGradient id="accentGlow" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#4285F4"/>
+      <stop offset="0.5" stop-color="#9b51e0"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <filter id="subtleShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <style>
+    .header-tab-active { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 20px; font-weight: 600; fill: #ffffff; }
+    .header-tab-inactive { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 20px; font-weight: 500; fill: #8e929b; }
+    .filter-tab { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 500; fill: #8e929b; }
+    .filter-tab-active { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 600; fill: #ffffff; }
+    .card-label { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 19px; font-weight: 500; fill: #9499a6; }
+    .card-value { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 32px; font-weight: 700; fill: #f3f4f6; letter-spacing: -0.5px; }
+    .card-value-small { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 700; fill: #f3f4f6; letter-spacing: -0.5px; }
+    .footer-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 400; fill: #9da3af; }
+    .accent-brand { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; fill: #60a5fa; letter-spacing: 0.5px; }
+  </style>
+
+  <!-- Main Container -->
+  <rect width="1024" height="664" rx="24" fill="url(#bgGrad)" stroke="#272930" stroke-width="2" filter="url(#subtleShadow)"/>
+
+  <!-- Header Section -->
+  <g transform="translate(28, 28)">
+    <!-- Overview Tab Pill -->
+    <rect x="0" y="0" width="144" height="46" rx="12" fill="#262830" stroke="#333640" stroke-width="1"/>
+    <text x="72" y="29" text-anchor="middle" class="header-tab-active">Overview</text>
+    
+    <!-- Subagents / Models Tab -->
+    <text x="184" y="29" class="header-tab-inactive">Subagents</text>
+    
+    <!-- Framework Tag -->
+    <rect x="312" y="8" width="176" height="30" rx="8" fill="#1e293b" stroke="#3b82f6" stroke-width="1"/>
+    <text x="400" y="28" text-anchor="middle" class="accent-brand">⚡ Google Antigravity</text>
+
+    <!-- Right Filters -->
+    <text x="825" y="29" text-anchor="middle" class="filter-tab">All</text>
+    <text x="885" y="29" text-anchor="middle" class="filter-tab">30d</text>
+    <rect x="926" y="2" width="60" height="42" rx="10" fill="#262830" stroke="#333640" stroke-width="1"/>
+    <text x="956" y="28" text-anchor="middle" class="filter-tab-active">All-Time</text>
+  </g>
+
+  <!-- Metric Cards Grid (2 rows x 3 columns) -->
+  <!-- Row 1 -->
+  <!-- Box 1: Sessions -->
+  <g transform="translate(28, 102)">
+    <rect width="308" height="96" rx="14" fill="url(#cardGrad)" stroke="#272930" stroke-width="1"/>
+    <text x="18" y="34" class="card-label">Agent Sessions</text>
+    <text x="18" y="76" class="card-value">406</text>
+  </g>
+
+  <!-- Box 2: Total Steps -->
+  <g transform="translate(358, 102)">
+    <rect width="308" height="96" rx="14" fill="url(#cardGrad)" stroke="#272930" stroke-width="1"/>
+    <text x="18" y="34" class="card-label">Execution Steps</text>
+    <text x="18" y="76" class="card-value">120,258</text>
+  </g>
+
+  <!-- Box 3: Subagent Archetypes -->
+  <g transform="translate(688, 102)">
+    <rect width="308" height="96" rx="14" fill="url(#cardGrad)" stroke="#272930" stroke-width="1"/>
+    <text x="18" y="34" class="card-label">Specialized Subagents</text>
+    <text x="18" y="76" class="card-value">35+</text>
+  </g>
+
+  <!-- Row 2 -->
+  <!-- Box 4: Active Workspaces -->
+  <g transform="translate(28, 218)">
+    <rect width="308" height="96" rx="14" fill="url(#cardGrad)" stroke="#272930" stroke-width="1"/>
+    <text x="18" y="34" class="card-label">Active Workspaces</text>
+    <text x="18" y="76" class="card-value">24+</text>
+  </g>
+
+  <!-- Box 5: Peak Workflow -->
+  <g transform="translate(358, 218)">
+    <rect width="308" height="96" rx="14" fill="url(#cardGrad)" stroke="#272930" stroke-width="1"/>
+    <text x="18" y="34" class="card-label">Max Steps / Single Session</text>
+    <text x="18" y="76" class="card-value">14,058</text>
+  </g>
+
+  <!-- Box 6: Top Subagent Roles -->
+  <g transform="translate(688, 218)">
+    <rect width="308" height="96" rx="14" fill="url(#cardGrad)" stroke="#272930" stroke-width="1"/>
+    <text x="18" y="34" class="card-label">Top Agent Mode</text>
+    <text x="18" y="75" class="card-value-small">Autonomous Multi-Agent</text>
+  </g>
+
+  <!-- Activity Heatmap Matrix (7 rows x 33 columns = 231 cells) -->
+  <g transform="translate(28, 350)">
+    <!-- Row 0 -->
+    <rect x="0" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="29" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="58" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="87" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="116" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="145" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="174" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="203" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="232" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="261" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="290" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="319" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="348" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="377" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="406" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="435" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="464" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="493" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="522" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="551" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="580" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="609" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="638" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="667" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="696" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="725" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="754" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="783" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="812" y="0" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="841" y="0" width="24" height="24" rx="5" fill="#2563eb"/>
+    <rect x="870" y="0" width="24" height="24" rx="5" fill="#60a5fa"/>
+    <rect x="899" y="0" width="24" height="24" rx="5" fill="#93c5fd"/>
+    <rect x="928" y="0" width="24" height="24" rx="5" fill="#60a5fa"/>
+
+    <!-- Row 1 -->
+    <rect x="0" y="29" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="29" y="29" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="58" y="29" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="87" y="29" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="116" y="29" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="145" y="29" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="174" y="29" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="203" y="29" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="232" y="29" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="261" y="29" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="290" y="29" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="319" y="29" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="348" y="29" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="377" y="29" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="406" y="29" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="435" y="29" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="464" y="29" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="493" y="29" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="522" y="29" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="551" y="29" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="580" y="29" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="609" y="29" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="638" y="29" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="667" y="29" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="696" y="29" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="725" y="29" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="754" y="29" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="783" y="29" width="24" height="24" rx="5" fill="#2563eb"/>
+    <rect x="812" y="29" width="24" height="24" rx="5" fill="#60a5fa"/>
+    <rect x="841" y="29" width="24" height="24" rx="5" fill="#3b82f6"/>
+    <rect x="870" y="29" width="24" height="24" rx="5" fill="#1d4ed8"/>
+    <rect x="899" y="29" width="24" height="24" rx="5" fill="#60a5fa"/>
+    <rect x="928" y="29" width="24" height="24" rx="5" fill="#93c5fd"/>
+
+    <!-- Row 2 -->
+    <rect x="0" y="58" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="29" y="58" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="58" y="58" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="87" y="58" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="116" y="58" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="145" y="58" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="174" y="58" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="203" y="58" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="232" y="58" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="261" y="58" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="290" y="58" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="319" y="58" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="348" y="58" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="377" y="58" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="406" y="58" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="435" y="58" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="464" y="58" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="493" y="58" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="522" y="58" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="551" y="58" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="580" y="58" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="609" y="58" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="638" y="58" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="667" y="58" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="696" y="58" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="725" y="58" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="754" y="58" width="24" height="24" rx="5" fill="#60a5fa"/>
+    <rect x="783" y="58" width="24" height="24" rx="5" fill="#93c5fd"/>
+    <rect x="812" y="58" width="24" height="24" rx="5" fill="#3b82f6"/>
+    <rect x="841" y="58" width="24" height="24" rx="5" fill="#2563eb"/>
+    <rect x="870" y="58" width="24" height="24" rx="5" fill="#60a5fa"/>
+    <rect x="899" y="58" width="24" height="24" rx="5" fill="#93c5fd"/>
+    <rect x="928" y="58" width="24" height="24" rx="5" fill="#60a5fa"/>
+
+    <!-- Row 3 -->
+    <rect x="0" y="87" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="29" y="87" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="58" y="87" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="87" y="87" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="116" y="87" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="145" y="87" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="174" y="87" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="203" y="87" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="232" y="87" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="261" y="87" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="290" y="87" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="319" y="87" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="348" y="87" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="377" y="87" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="406" y="87" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="435" y="87" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="464" y="87" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="493" y="87" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="522" y="87" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="551" y="87" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="580" y="87" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="609" y="87" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="638" y="87" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="667" y="87" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="696" y="87" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="725" y="87" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="754" y="87" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="783" y="87" width="24" height="24" rx="5" fill="#60a5fa"/>
+    <rect x="812" y="87" width="24" height="24" rx="5" fill="#3b82f6"/>
+    <rect x="841" y="87" width="24" height="24" rx="5" fill="#1d4ed8"/>
+    <rect x="870" y="87" width="24" height="24" rx="5" fill="#60a5fa"/>
+    <rect x="899" y="87" width="24" height="24" rx="5" fill="#93c5fd"/>
+    <rect x="928" y="87" width="24" height="24" rx="5" fill="#60a5fa"/>
+
+    <!-- Row 4 -->
+    <rect x="0" y="116" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="29" y="116" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="58" y="116" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="87" y="116" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="116" y="116" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="145" y="116" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="174" y="116" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="203" y="116" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="232" y="116" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="261" y="116" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="290" y="116" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="319" y="116" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="348" y="116" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="377" y="116" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="406" y="116" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="435" y="116" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="464" y="116" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="493" y="116" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="522" y="116" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="551" y="116" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="580" y="116" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="609" y="116" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="638" y="116" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="667" y="116" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="696" y="116" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="725" y="116" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="754" y="116" width="24" height="24" rx="5" fill="#60a5fa"/>
+    <rect x="783" y="116" width="24" height="24" rx="5" fill="#2563eb"/>
+    <rect x="812" y="116" width="24" height="24" rx="5" fill="#3b82f6"/>
+    <rect x="841" y="116" width="24" height="24" rx="5" fill="#60a5fa"/>
+    <rect x="870" y="116" width="24" height="24" rx="5" fill="#93c5fd"/>
+    <rect x="899" y="116" width="24" height="24" rx="5" fill="#3b82f6"/>
+    <rect x="928" y="116" width="24" height="24" rx="5" fill="#60a5fa"/>
+
+    <!-- Row 5 -->
+    <rect x="0" y="145" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="29" y="145" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="58" y="145" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="87" y="145" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="116" y="145" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="145" y="145" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="174" y="145" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="203" y="145" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="232" y="145" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="261" y="145" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="290" y="145" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="319" y="145" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="348" y="145" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="377" y="145" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="406" y="145" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="435" y="145" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="464" y="145" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="493" y="145" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="522" y="145" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="551" y="145" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="580" y="145" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="609" y="145" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="638" y="145" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="667" y="145" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="696" y="145" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="725" y="145" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="754" y="145" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="783" y="145" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="812" y="145" width="24" height="24" rx="5" fill="#2563eb"/>
+    <rect x="841" y="145" width="24" height="24" rx="5" fill="#60a5fa"/>
+    <rect x="870" y="145" width="24" height="24" rx="5" fill="#93c5fd"/>
+    <rect x="899" y="145" width="24" height="24" rx="5" fill="#60a5fa"/>
+    <rect x="928" y="145" width="24" height="24" rx="5" fill="#93c5fd"/>
+
+    <!-- Row 6 -->
+    <rect x="0" y="174" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="29" y="174" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="58" y="174" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="87" y="174" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="116" y="174" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="145" y="174" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="174" y="174" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="203" y="174" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="232" y="174" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="261" y="174" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="290" y="174" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="319" y="174" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="348" y="174" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="377" y="174" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="406" y="174" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="435" y="174" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="464" y="174" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="493" y="174" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="522" y="174" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="551" y="174" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="580" y="174" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="609" y="174" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="638" y="174" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="667" y="174" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="696" y="174" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="725" y="174" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="754" y="174" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="783" y="174" width="24" height="24" rx="5" fill="#24262c"/>
+    <rect x="812" y="174" width="24" height="24" rx="5" fill="#60a5fa"/>
+    <rect x="841" y="174" width="24" height="24" rx="5" fill="#93c5fd"/>
+    <rect x="870" y="174" width="24" height="24" rx="5" fill="#60a5fa"/>
+    <rect x="899" y="174" width="24" height="24" rx="5" fill="#93c5fd"/>
+    <rect x="928" y="174" width="24" height="24" rx="5" fill="#60a5fa"/>
+  </g>
+
+  <!-- Footer Stat -->
+  <g transform="translate(28, 595)">
+    <circle cx="8" cy="8" r="4" fill="#3b82f6"/>
+    <text x="24" y="14" class="footer-text">
+      Orchestrated <tspan fill="#f3f4f6" font-weight="600">~120k autonomous reasoning &amp; tool-calling operations</tspan> across 35+ specialized multi-agent workflows.
+    </text>
+  </g>
+</svg>
