@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=Koushik%20Goud%20Shaganti&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Systems%20%26%20Automation%20%F0%9F%9A%80&descAlignY=62&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=Koushik%20Goud%20Shaganti&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Systems%20and%20Automation&descAlignY=62&descSize=20"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Software+Engineer+-+AI+Systems+%26+Automation;Autonomous+Multi-Agent+DAGs+%26+Enterprise+RAG+Architectures;Production+Full-Stack+%7C+AWS%2C+GCP+Cloud+Run+%26+Supabase;Fueled+by+Coffee+%E2%98%95+and+Scalable+Code;Anthropic+Certified%3A+Claude+101+%26+AI+Fluency;Iowa+State+University+CS+'26+(GPA%3A+3.68%2F4.00)"/>
