@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=Koushik%20Goud%20Shaganti&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Systems%20and%20Automation&descAlignY=62&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050814,25:1e1b4b,50:3b0764,75:4338ca,100:00F7FF&text=Koushik%20Goud%20Shaganti&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Systems%20and%20Automation&descAlignY=62&descSize=20"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Software+Engineer+-+AI+Systems+%26+Automation;Autonomous+Multi-Agent+DAGs+%26+Enterprise+RAG+Architectures;Production+Full-Stack+%7C+AWS%2C+GCP+Cloud+Run+%26+Supabase;Fueled+by+Coffee+%E2%98%95+and+Scalable+Code;Anthropic+Certified%3A+Claude+101+%26+AI+Fluency;Iowa+State+University+CS+'26+(GPA%3A+3.68%2F4.00)"/>
@@ -67,7 +67,7 @@
       </ul>
     </td>
     <td width="42%" align="center" valign="middle">
-      <img width="100%" src="https://raw.githubusercontent.com/koushik1133/koushik1133/main/assets/developer-workspace.gif" alt="Developer Workspace with Coffee and Dual Screens"/>
+      <img width="100%" src="https://raw.githubusercontent.com/koushik1133/koushik1133/main/assets/action-packed.gif" alt="Action Packed Developer Workspace Animation"/>
     </td>
   </tr>
 </table>
@@ -127,6 +127,16 @@ production_footprint:
 <!-- ========================== TECH STACK ========================== -->
 
 # 💻 TECH ARSENAL
+
+<!-- Animated Core Stack Moving Logos -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/koushik1133/koushik1133/main/assets/tech-js.gif" alt="JavaScript" width="56" height="56"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/koushik1133/koushik1133/main/assets/tech-python.gif" alt="Python" width="56" height="56"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/koushik1133/koushik1133/main/assets/tech-react.gif" alt="React" width="56" height="56"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/koushik1133/koushik1133/main/assets/tech-nodejs.gif" alt="Node.js" width="56" height="56"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/koushik1133/koushik1133/main/assets/tech-vscode.gif" alt="VS Code" width="56" height="56"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/koushik1133/koushik1133/main/assets/tech-github.gif" alt="GitHub" width="56" height="56"/>
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,c,cs,html,css,react,nextjs,nodejs,express,spring,fastapi,flask,electron,tailwind,postgres,mongodb,mysql,supabase,redis,aws,gcp,cloudflare,docker,git,github,linux" alt="Skills Map"/>
@@ -402,6 +412,16 @@ Artificial Intelligence, Machine Learning, Data Structures & Algorithms, Operati
 
 # 🔥 GITHUB STREAK & REPOSITORY METRICS
 
+<!-- Contribution Grid Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koushik1133/koushik1133/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/koushik1133/koushik1133/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/koushik1133/koushik1133/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+<br/>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=koushik1133&theme=tokyonight&hide_border=true&stroke=00F7FF" alt="GitHub Streak" width="49%"/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=koushik1133&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&title_color=00F7FF&icon_color=60a5fa" alt="GitHub Statistics" width="49%"/>
@@ -457,7 +477,7 @@ Artificial Intelligence, Machine Learning, Data Structures & Algorithms, Operati
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:302b63&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,25:4338ca,50:3b0764,100:050814&height=120&section=footer" width="100%"/>
 
 <h3 align="center">
   ⚡ Code • Build • Scale • Automate ⚡
