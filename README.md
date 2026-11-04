@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Animated Banner -->
-<img src="https://raw.githubusercontent.com/koushik1133/koushik1133/main/assets/coding-banner.gif" width="100%" alt="Coding Animation Banner" />
+<img src="./assets/coding-banner.gif" width="100%" alt="Coding Animation Banner" />
 
 # Hey there, I'm Koushik Goud Shaganti 👋
 
@@ -55,7 +55,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/koushik1133/koushik1133/main/assets/developer-typing.gif" width="100%" alt="Coding Animation" />
+      <img src="./assets/developer-typing.gif" width="100%" alt="Coding Animation" />
     </td>
   </tr>
 </table>
