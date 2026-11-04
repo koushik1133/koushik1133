@@ -1,2 +1,13 @@
 .DS_Store
 *.log
+*.pdf
+*.txt
+*.json
+.agents/
+.claude/
+Job-Autopilot/
+agent/
+apply_repo/
+candidate_base_resume.pdf
+job_application_tracker.md
+scratch/
