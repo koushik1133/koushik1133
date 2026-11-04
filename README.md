@@ -1,32 +1,66 @@
 <div align="center">
 
-# Hi there, I'm Koushik Goud Shaganti 👋
+<!-- Hero Animated Banner -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Animation Banner" />
 
+# Hey there, I'm Koushik Goud Shaganti 👋
+
+<!-- Readme Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=780&lines=Software+Engineer+-+AI+Systems+%26+Automation;Production+Full-Stack+%7C+Real-Time+Distributed+Systems;120K%2B+Antigravity+Agent+Steps+%7C+107K%2B+Claude+Messages;Anthropic+Certified%3A+Claude+101+%26+AI+Fluency;Iowa+State+University+CS+'26+(GPA%3A+3.68%2F4.00)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=Software+Engineer+-+AI+Systems+%26+Automation;Production+Full-Stack+%7C+Real-Time+Distributed+Systems;Multi-Agent+Orchestration+%26+RAG+Architectures;Anthropic+Certified%3A+Claude+101+%26+AI+Fluency;Iowa+State+University+CS+'26+(GPA%3A+3.68%2F4.00)" alt="Typing SVG" />
 </a>
 
+<!-- Profile Views & Social Badges -->
 <p align="center">
-  <strong>Software Engineer specializing in Production AI Systems, Multi-Agent Orchestration (DAGs), Real-Time Distributed Architectures, and Cloud-Native Platforms.</strong>
+  <a href="https://github.com/koushik1133">
+    <img src="https://komarev.com/ghpvc/?username=koushik1133&label=PROFILE%20VIEWS&style=for-the-badge&color=8A2BE2" alt="Profile Views" />
+  </a>
+  <a href="https://koushik9.me">
+    <img src="https://img.shields.io/badge/Portfolio-koushik9.me-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/koushik-shaganti">
+    <img src="https://img.shields.io/badge/LinkedIn-koushik--shaganti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:skoushik0909@gmail.com">
+    <img src="https://img.shields.io/badge/Email-skoushik0909%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://koushik9.me"><img src="https://img.shields.io/badge/Portfolio-koushik9.me-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/koushik-shaganti"><img src="https://img.shields.io/badge/LinkedIn-koushik--shaganti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:skoushik0909@gmail.com"><img src="https://img.shields.io/badge/Email-skoushik0909%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/koushik1133"><img src="https://img.shields.io/badge/GitHub-koushik1133-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
+<!-- Quick Bio Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Software_Engineer_%40_LANE_Trailer_Mfg.-blue?style=flat-square&logo=target" alt="Current Role"/>
   <img src="https://img.shields.io/badge/Education-Iowa_State_University_BS_CS_3.68_GPA-C8102E?style=flat-square&logo=iastate" alt="Education"/>
   <img src="https://img.shields.io/badge/Location-Boone_%2F_Ames%2C_Iowa%2C_USA-green?style=flat-square&logo=googlemaps" alt="Location"/>
-  <img src="https://komarev.com/ghpvc/?username=koushik1133&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views"/>
 </p>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=2,14,24,35,42&height=3&width=100%" alt="Divider"/>
+
+## 🚀 About Me
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>🎓 <b>B.S. in Computer Science</b> graduate from <b>Iowa State University</b> (GPA: 3.68 / 4.00).</li>
+        <li>💼 <b>Software Engineer – AI Systems & Automation</b> at <b>LANE Trailer Mfg.</b> (converted from co-op based on measurable business impact).</li>
+        <li>🧠 Architecting <b>Autonomous Multi-Agent DAGs</b>, enterprise <b>RAG pipelines</b>, and context-aware business intelligence.</li>
+        <li>⚡ Building scalable production systems using <b>React, Next.js 15, Node.js, TypeScript, Python, and Java Spring Boot</b>.</li>
+        <li>☁️ Designing high-throughput cloud backends on <b>AWS (Aurora DSQL, DynamoDB), Google Cloud Run, Supabase, and Docker</b>.</li>
+        <li>🤖 Engineering <b>physical edge AI robotics</b> (Raspberry Pi 4, YOLOv8 computer vision, Whisper speech models).</li>
+        <li>📜 <b>Anthropic Certified</b>: <i>Claude 101</i> & <i>AI Fluency: Framework & Foundations</i>.</li>
+        <li>🏆 Selected project presenter at the <b>AI Builders Hackathon (OpenAI x Outskill)</b>.</li>
+        <li>📫 Ask me about <b>distributed architectures, agentic workflows, or real-time sync</b>!</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=2,14,24,35,42&height=3&width=100%" alt="Divider"/>
 
 ## ⚡ Executive Impact & Engineering Highlights
 
@@ -42,204 +76,7 @@
 └────────────────────────┴────────────────────────┴────────────────────────┘
 ```
 
----
-
-## 🤖 Autonomous AI & Telemetry Spotlight
-
-> Power-user of next-generation agentic frameworks and autonomous software engineering environments. Real-world telemetry across Anthropic Claude Code and the Google Antigravity SDK:
-
-### 1. Anthropic Claude Code Developer Telemetry
-<p align="center">
-  <img src="assets/claude-stats.png" alt="Claude Code Telemetry Stats" width="95%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.4);" />
-</p>
-
-```
-┌──────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│  Overview   Models                                                                 [All]   30d   7d  │
-├───────────────────────────────────┬───────────────────────────────────┬──────────────────────────────┤
-│  Sessions                         │  Messages                         │  Total tokens                │
-│  58                               │  107,343                          │  95.4M                       │
-├───────────────────────────────────┼───────────────────────────────────┼──────────────────────────────┤
-│  Active days                      │  Peak hour                        │  Favorite model              │
-│  30                               │  7 AM                             │  Opus 5                      │
-├───────────────────────────────────┴───────────────────────────────────┴──────────────────────────────┤
-│  ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■   │
-│  ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■   │
-│  ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■   │
-│  ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■   │
-│                                                                                                      │
-│  You’ve used ~680× more tokens than Harry Potter and the Philosopher’s Stone.                        │
-└──────────────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-* **52.6M+ Tokens (30d)** | **95.4M+ Tokens (All-Time)** (~680× *Harry Potter*).
-* **60,419 Messages (30d)** | **107,343 Messages (All-Time)** across **1,135+ Project Sessions**.
-* **Favorite Model**: Claude Opus 5 | **Active Days**: 30 | **Peak Velocity**: 7:00 AM daily deep-work focus.
-* **Anthropic Certified**: *AI Fluency: Framework & Foundations* (Jul 2026) & *Claude 101* (Jul 2026).
-
-<br/>
-
-### 2. Google Antigravity SDK Multi-Agent Orchestration
-<p align="center">
-  <img src="assets/antigravity-stats.svg" alt="Google Antigravity SDK Telemetry" width="95%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.4);" />
-</p>
-
-```
-┌──────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│  Overview   Subagents   [⚡ Antigravity SDK]                                       [All]   30d   7d  │
-├───────────────────────────────────┬───────────────────────────────────┬──────────────────────────────┤
-│  Sessions                         │  Execution Steps                  │  Autonomous Subagents        │
-│  406                              │  120,508                          │  35+                         │
-├───────────────────────────────────┼───────────────────────────────────┼──────────────────────────────┤
-│  Active Workspaces                │  Max Steps / Single Session       │  Top Agent Mode              │
-│  92                               │  14,058                           │  Autonomous Multi-Agent      │
-├───────────────────────────────────┴───────────────────────────────────┴──────────────────────────────┤
-│  ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■   │
-│  ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■   │
-│  ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■   │
-│  ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■   │
-│                                                                                                      │
-│  Orchestrated ~120,500 autonomous reasoning & tool-calling actions across 92 enterprise codebases.   │
-└──────────────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-* **406 Autonomous Agent Sessions** executing **120,508 total steps**.
-* **35+ Specialized Multi-Agent Archetypes** coordinated (DAG orchestration, automated code reviewers, RAG planners, voice agent builders).
-* **14,058 Steps Peak Single Session** deployed in end-to-end full-stack architectures.
-
-<br/>
-
-### 3. Velocity Progression (7d vs. 30d vs. All-Time)
-
-| Metric | 7 Days (Sprint) | 30 Days (Monthly) | All-Time (From Start) |
-| :--- | :---: | :---: | :---: |
-| **Claude Sessions** | 8 | 51 | **58** *(1,135 project logs)* |
-| **Claude Messages** | 17,778 | 60,419 | **107,343 messages** |
-| **Claude Total Tokens** | 17.7M | 52.6M | **~95.4M tokens** |
-| **Claude Active Days** | 7 / 7 | 27 / 30 | **30 days** |
-| **Claude Peak Hour** | 7 AM | 7 AM | **7 AM** |
-| **Claude Favorite Model** | Opus 4.8 | Opus 5 | **Opus 5** |
-| **Antigravity Sessions** | ~24 | ~85 | **406 sessions** |
-| **Antigravity Steps** | ~8,500 | ~32,000 | **120,508 steps** |
-| **Antigravity Codebases** | 4 | 16 | **92 projects** |
-
----
-
-## 💼 Professional Experience
-
-### 🚀 **Software Engineer – AI Systems & Automation**
-**LANE Trailer Mfg.** | *Boone, Iowa, USA* | **Jan 2026 – Present**  
-📦 **Repo**: [koushik1133/production-management](https://github.com/koushik1133/production-management) • 🌐 **Live**: [production-management-murex.vercel.app](https://production-management-murex.vercel.app)
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Commits-598%2B-blue?style=flat-square&logo=git" alt="598 Commits"/>
-  <img src="https://img.shields.io/badge/Deployments-500%2B_Production-brightgreen?style=flat-square&logo=vercel" alt="500+ Deployments"/>
-  <img src="https://img.shields.io/badge/System-Active_Production_Hub-orange?style=flat-square&logo=target" alt="Active Production"/>
-  <img src="https://img.shields.io/badge/Architecture-Real--Time_Labor_Tracking_%26_TV_Floor-blueviolet?style=flat-square" alt="Architecture"/>
-</p>
-
-*Tech: React, Node.js, TypeScript, Python, Supabase, iLogic, Claude/Gemini APIs, n8n, Pinecone RAG, REST APIs, Agile SDLC*
-* **Co-op to Full-Time Conversion**: Promoted based on measurable business impact across shop-floor automation, cloud data systems, and CAD engineering pipelines.
-* **Production Operations Hub (598+ Commits, 500+ Deployments)**: Architected a real-time production management system featuring dynamic Kanban scheduling, bay allocation, labor tracking, and multi-department live TV floor dashboards, **boosting manufacturing throughput by 40%**.
-* **Cloud Migration & Spec Engine**: Led migration of legacy paper spec sheets to Supabase; developed model-aware spec sheet engine enabling unified data access across sales, engineering, and assembly.
-* **Quote-to-Production Engine**: Implemented quote automation with granular RBAC and real-time Undo/Redo state management, automating the conversion of customer orders into production backlog items.
-* **CAD & BOM Automation**: Engineered Python and Autodesk iLogic automation scripts for Inventor CAD models and Excel BOM tooling, **reducing manual drafting time by 80%**.
-* **Autonomous Workflow Pipelines**: Built n8n agentic workflows leveraging Claude and Gemini APIs to eliminate **60%+ of repetitive engineering and sales tasks**.
-* **Enterprise RAG Retrieval**: Deployed Pinecone vector retrieval networks for context-aware business intelligence, spec lookups, and inventory analytics.
-
-### 🏢 **AI Systems Developer**
-**Glentree Real Estate** | *Remote* | **Mar 2026 – Jun 2026**  
-*Tech: n8n, Claude API, Gemini API, WhatsApp API, AI Voice Agent, CRM Integration, PostgreSQL, Webhooks, REST APIs*
-* Designed an automated AI lead management infrastructure, bridging Meta Ads capture directly into automated CRM broker assignments.
-* Developed an **AI Voice Agent** that calls newly registered leads on CRM entry, conducts natural-language qualification, logs call transcripts, and scores sentiment; built WhatsApp/Email fallback agents.
-* Engineered merit-based scoring algorithms to instantly route hot leads to top-performing active brokers via n8n triggers.
-* Shipped broker and administrator portals including client tracking, invoice generation, live ranking leaderboards, and revenue analytics.
-
-### 🍽️ **Software AI Engineer – WhatsApp Ordering System**
-**Restaurant Automation Platform** | *Hyderabad, India* | **Feb 2025 – May 2025**  
-*Tech: Google Gemini 1.5 Pro, n8n, WhatsApp API, Webhooks, REST APIs, PostgreSQL*
-* Built an automated WhatsApp ordering system with QR-table routing, **increasing order throughput by 35%**.
-* Orchestrated natural-language intent recognition workflows for order customization, bill splitting, and kitchen dispatch.
-* Formulated Gemini analytics agents to query order histories, improving demand forecasting accuracy by 20%.
-
-### 🛍️ **Software Engineer**
-**E-Commerce Store Platform** | *Ames, Iowa, USA* | **Oct 2025 – Dec 2025**  
-*Tech: Shopify API, Liquid, JavaScript, HTML5/CSS3, Postman, SEO Schema, Git*
-* Designed and deployed a custom high-conversion storefront theme using Liquid and JavaScript, driving a **43% surge in holiday transactions**.
-* Configured dynamic shipping calculation matrices, payment gateways, and Judge.me review integrations; executed schema.org structured metadata for rich SERP snippets.
-
-### 💻 **Full Stack Development Intern**
-**Cognifyz Technologies** | *Remote* | **May 2024 – Jul 2024**  
-*Tech: Python, Flask, Power BI, PostgreSQL, GitLab CI/CD, Postman, Agile*
-* Engineered backend REST APIs and interactive Power BI executive reporting dashboards, cutting reporting turnaround from days to minutes.
-
----
-
-## 📂 Flagship Engineering Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/koushik1133/build-chat-task-javis">KernelHub (Javis) – AI Business OS</a></h3>
-      <em>Next.js 15, Supabase, AWS (Aurora DSQL, DynamoDB), Pinecone, Groq, Google Cloud Run</em>
-      <ul>
-        <li>Unified AI business platform consolidating 5+ enterprise workflows (RAG chat, automated GitHub PR reviews, Kanban, NL-to-SQL, site builder).</li>
-        <li>Architected hybrid AWS storage: Aurora DSQL for relational metadata and DynamoDB for sub-200ms p99 write latency.</li>
-        <li>Enterprise RAG vector store with Pinecone parsing PDFs with source citation; automated cron scheduler triggering Slack/email agents.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/koushik1133/Mekk-The-Robot">Mekk – Edge AI Exploration Robot</a></h3>
-      <em>Python, Raspberry Pi 4, Linux, OpenCV, YOLOv8n, Whisper, TinyLlama, Coqui TTS, WebRTC</em>
-      <ul>
-        <li>Autonomous physical robotics platform combining computer vision, speech recognition, and sensor fusion on embedded hardware.</li>
-        <li>Modular perception pipeline with YOLOv8n and 4 ultrasonic sensors for real-time obstacle avoidance and target tracking.</li>
-        <li>Hands-free voice pipeline (Whisper wake-word &rarr; TinyLlama command interpretation &rarr; Coqui TTS voice response) + WebRTC live streaming.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🖥️ <a href="https://github.com/koushik1133/open-claw-agent">OpenClaw AI Command Center</a></h3>
-      <em>Python, Electron, Node.js, SQLite, ThreadPoolExecutor, Ollama, LanceDB</em>
-      <ul>
-        <li>Desktop AI platform supporting workflow orchestration, file indexing, and completely offline local LLM execution.</li>
-        <li>Multithreaded execution engine using ThreadPoolExecutor for low-latency asynchronous task scheduling.</li>
-        <li>Local semantic search with LanceDB vector storage; integrated Slack and Telegram remote dispatch bots.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🩺 <a href="https://github.com/koushik1133/doctor-agent">Doctor Agent – Medical Triage Assistant</a></h3>
-      <em>Next.js 15, Groq, Llama 3.3 70B, Whisper-large-v3, Supabase</em>
-      <ul>
-        <li>Voice intake health assistant featuring Whisper-large-v3 speech-to-text paired with deterministic dual-LLM clinical safety classifiers.</li>
-        <li><strong>Reduced missed critical emergency triage cases by 95%</strong> with automated escalation flags.</li>
-        <li>Proactive recovery tracking scheduler storing symptom analytics over longitudinal patient records.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🕹️ <a href="https://github.com/koushik1133/DonkeyKong">Donkey Kong – Real-Time Multiplayer Backend</a></h3>
-      <em>Java, Spring Boot, WebSockets, Hibernate ORM, MySQL, Maven</em>
-      <ul>
-        <li>Scalable game server architecture supporting synchronized real-time player physics, collision detection, and in-game chat.</li>
-        <li>Bidirectional WebSocket messaging layer achieving <strong>sub-100ms state synchronization</strong> under concurrent load.</li>
-        <li>Clean domain-driven separation between game loop logic, session handlers, and Hibernate persistence.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚖️ <a href="https://github.com/koushik1133/ArguVista-Cloudflare">ArguVista – Serverless AI Debate Platform</a></h3>
-      <em>Cloudflare Workers, Workers AI, KV Storage, WebRTC, JavaScript</em>
-      <ul>
-        <li>Distributed edge platform establishing ultra-low latency peer-to-peer WebRTC debate streams with automatic serverless failover.</li>
-        <li>Edge-based LLM parsing evaluating debate transcripts in real-time, providing immediate structured argumentation feedback.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=2,14,24,35,42&height=3&width=100%" alt="Divider"/>
 
 ## 🛠️ Technical Arsenal
 
@@ -250,8 +87,9 @@
   <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude"/>
   <img src="https://img.shields.io/badge/Google_Gemini_1.5_Pro-886CE4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"/>
   <img src="https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Google_Antigravity_SDK-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity SDK"/>
+  <img src="https://img.shields.io/badge/Groq_LPU-F55036?style=for-the-badge&logo=fastapi&logoColor=white" alt="Groq"/>
   <img src="https://img.shields.io/badge/Claude_Code-CC6600?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Google_Antigravity_SDK-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity SDK"/>
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
   <img src="https://img.shields.io/badge/Pinecone_RAG-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
   <img src="https://img.shields.io/badge/LanceDB-10B981?style=for-the-badge&logo=database&logoColor=white" alt="LanceDB"/>
@@ -308,23 +146,127 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=2,14,24,35,42&height=3&width=100%" alt="Divider"/>
 
-## 📊 GitHub Analytics & Repository Metrics
+## 📂 Flagship Engineering Projects
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=koushik1133&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&title_color=60a5fa&icon_color=3b82f6" alt="Koushik's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=koushik1133&layout=compact&theme=tokyonight&hide_border=true&title_color=60a5fa" alt="Top Languages" width="48%" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/koushik1133/build-chat-task-javis">KernelHub (Javis) – AI Business OS</a></h3>
+      <em>Next.js 15, Supabase, AWS (Aurora DSQL, DynamoDB), Pinecone, Groq, Google Cloud Run</em>
+      <ul>
+        <li>Unified AI business platform consolidating 5+ enterprise workflows (RAG chat, automated GitHub PR reviews, Kanban, NL-to-SQL, site builder).</li>
+        <li>Architected hybrid AWS storage: Aurora DSQL for relational metadata and DynamoDB for sub-200ms p99 write latency.</li>
+        <li>Enterprise RAG vector store with Pinecone parsing PDFs with source citation; automated cron scheduler triggering Slack/email agents.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/koushik1133/Mekk-The-Robot">Mekk – Edge AI Exploration Robot</a></h3>
+      <em>Python, Raspberry Pi 4, Linux, OpenCV, YOLOv8n, Whisper, TinyLlama, Coqui TTS, WebRTC</em>
+      <ul>
+        <li>Autonomous physical robotics platform combining computer vision, speech recognition, and sensor fusion on embedded hardware.</li>
+        <li>Modular perception pipeline with YOLOv8n and 4 ultrasonic sensors for real-time obstacle avoidance and target tracking.</li>
+        <li>Hands-free voice pipeline (Whisper wake-word &rarr; TinyLlama command interpretation &rarr; Coqui TTS voice response) + WebRTC live streaming.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖥️ <a href="https://github.com/koushik1133/open-claw-agent">OpenClaw AI Command Center</a></h3>
+      <em>Python, Electron, Node.js, SQLite, ThreadPoolExecutor, Ollama, LanceDB</em>
+      <ul>
+        <li>Desktop AI platform supporting workflow orchestration, file indexing, and completely offline local LLM execution.</li>
+        <li>Multithreaded execution engine using ThreadPoolExecutor for low-latency asynchronous task scheduling.</li>
+        <li>Local semantic search with LanceDB vector storage; integrated Slack and Telegram remote dispatch bots.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🩺 <a href="https://github.com/koushik1133/doctor-agent">Doctor Agent – Medical Triage Assistant</a></h3>
+      <em>Next.js 15, Groq, Llama 3.3 70B, Whisper-large-v3, Supabase</em>
+      <ul>
+        <li>Voice intake health assistant featuring Whisper-large-v3 speech-to-text paired with deterministic dual-LLM clinical safety classifiers.</li>
+        <li><b>Reduced missed critical emergency triage cases by 95%</b> with automated escalation flags.</li>
+        <li>Proactive recovery tracking scheduler storing symptom analytics over longitudinal patient records.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕹️ <a href="https://github.com/koushik1133/DonkeyKong">Donkey Kong – Real-Time Multiplayer Backend</a></h3>
+      <em>Java, Spring Boot, WebSockets, Hibernate ORM, MySQL, Maven</em>
+      <ul>
+        <li>Scalable game server architecture supporting synchronized real-time player physics, collision detection, and in-game chat.</li>
+        <li>Bidirectional WebSocket messaging layer achieving <b>sub-100ms state synchronization</b> under concurrent load.</li>
+        <li>Clean domain-driven separation between game loop logic, session handlers, and Hibernate persistence.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚖️ <a href="https://github.com/koushik1133/ArguVista-Cloudflare">ArguVista – Serverless AI Debate Platform</a></h3>
+      <em>Cloudflare Workers, Workers AI, KV Storage, WebRTC, JavaScript</em>
+      <ul>
+        <li>Distributed edge platform establishing ultra-low latency peer-to-peer WebRTC debate streams with automatic serverless failover.</li>
+        <li>Edge-based LLM parsing evaluating debate transcripts in real-time, providing immediate structured argumentation feedback.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<!-- Collapsible Details Sections -->
+<details>
+  <summary><b>🔍 Click to expand: Professional Experience Deep-Dive</b></summary>
+  <br/>
+
+### 🚀 **Software Engineer – AI Systems & Automation**
+**LANE Trailer Mfg.** | *Boone, Iowa, USA* | **Jan 2026 – Present**  
+📦 **Repo**: [koushik1133/production-management](https://github.com/koushik1133/production-management) • 🌐 **Live**: [production-management-murex.vercel.app](https://production-management-murex.vercel.app)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Commits-598%2B-blue?style=flat-square&logo=git" alt="598 Commits"/>
+  <img src="https://img.shields.io/badge/Deployments-500%2B_Production-brightgreen?style=flat-square&logo=vercel" alt="500+ Deployments"/>
+  <img src="https://img.shields.io/badge/System-Active_Production_Hub-orange?style=flat-square&logo=target" alt="Active Production"/>
+  <img src="https://img.shields.io/badge/Architecture-Real--Time_Labor_Tracking_%26_TV_Floor-blueviolet?style=flat-square" alt="Architecture"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=koushik1133&theme=tokyonight&hide_border=true&stroke=60a5fa" alt="GitHub Streak" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koushik1133&theme=tokyonight" alt="Profile Summary Stats" width="48%" />
-</p>
+*Tech: React, Node.js, TypeScript, Python, Supabase, iLogic, Claude/Gemini APIs, n8n, Pinecone RAG, REST APIs, Agile SDLC*
+* **Co-op to Full-Time Conversion**: Promoted based on measurable business impact across shop-floor automation, cloud data systems, and CAD engineering pipelines.
+* **Production Operations Hub (598+ Commits, 500+ Deployments)**: Architected a real-time production management system featuring dynamic Kanban scheduling, bay allocation, labor tracking, and multi-department live TV floor dashboards, **boosting manufacturing throughput by 40%**.
+* **Cloud Migration & Spec Engine**: Led migration of legacy paper spec sheets to Supabase; developed model-aware spec sheet engine enabling unified data access across sales, engineering, and assembly.
+* **Quote-to-Production Engine**: Implemented quote automation with granular RBAC and real-time Undo/Redo state management, automating the conversion of customer orders into production backlog items.
+* **CAD & BOM Automation**: Engineered Python and Autodesk iLogic automation scripts for Inventor CAD models and Excel BOM tooling, **reducing manual drafting time by 80%**.
+* **Autonomous Workflow Pipelines**: Built n8n agentic workflows leveraging Claude and Gemini APIs to eliminate **60%+ of repetitive engineering and sales tasks**.
+* **Enterprise RAG Retrieval**: Deployed Pinecone vector retrieval networks for context-aware business intelligence, spec lookups, and inventory analytics.
 
----
+### 🏢 **AI Systems Developer**
+**Glentree Real Estate** | *Remote* | **Mar 2026 – Jun 2026**  
+*Tech: n8n, Claude API, Gemini API, WhatsApp API, AI Voice Agent, CRM Integration, PostgreSQL, Webhooks, REST APIs*
+* Designed an automated AI lead management infrastructure, bridging Meta Ads capture directly into automated CRM broker assignments.
+* Developed an **AI Voice Agent** that calls newly registered leads on CRM entry, conducts natural-language qualification, logs call transcripts, and scores sentiment; built WhatsApp/Email fallback agents.
+* Engineered merit-based scoring algorithms to instantly route hot leads to top-performing active brokers via n8n triggers.
+* Shipped broker and administrator portals including client tracking, invoice generation, live ranking leaderboards, and revenue analytics.
 
-## 🎓 Education & 📜 Professional Certifications
+### 🍽️ **Software AI Engineer – WhatsApp Ordering System**
+**Restaurant Automation Platform** | *Hyderabad, India* | **Feb 2025 – May 2025**  
+*Tech: Google Gemini 1.5 Pro, n8n, WhatsApp API, Webhooks, REST APIs, PostgreSQL*
+* Built an automated WhatsApp ordering system with QR-table routing, **increasing order throughput by 35%**.
+* Orchestrated natural-language intent recognition workflows for order customization, bill splitting, and kitchen dispatch.
+* Formulated Gemini analytics agents to query order histories, improving demand forecasting accuracy by 20%.
+
+### 🛍️ **Software Engineer**
+**E-Commerce Store Platform** | *Ames, Iowa, USA* | **Oct 2025 – Dec 2025**  
+*Tech: Shopify API, Liquid, JavaScript, HTML5/CSS3, Postman, SEO Schema, Git*
+* Designed and deployed a custom high-conversion storefront theme using Liquid and JavaScript, driving a **43% surge in holiday transactions**.
+* Configured dynamic shipping calculation matrices, payment gateways, and Judge.me review integrations; executed schema.org structured metadata for rich SERP snippets.
+
+### 💻 **Full Stack Development Intern**
+**Cognifyz Technologies** | *Remote* | **May 2024 – Jul 2024**  
+*Tech: Python, Flask, Power BI, PostgreSQL, GitLab CI/CD, Postman, Agile*
+* Engineered backend REST APIs and interactive Power BI executive reporting dashboards, cutting reporting turnaround from days to minutes.
+</details>
+
+<details>
+  <summary><b>🎓 Click to expand: Education, Honors & Certifications</b></summary>
+  <br/>
 
 <table>
   <tr>
@@ -355,13 +297,28 @@
 * **Google Developer Groups (GDG)** – Active Member participating in AI & cloud developer communities (2025 – 2026).
 * **Artificial Intelligence & Machine Learning Club** – Technical Board Associate (2025 – Present).
 * **Software Development Club** – Core Engineering Peer Reviewer (2024 – 2025).
+</details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=2,14,24,35,42&height=3&width=100%" alt="Divider"/>
+
+## 📊 Profile Insights & GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=koushik1133&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&title_color=60a5fa&icon_color=3b82f6" alt="Koushik's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=koushik1133&layout=compact&theme=tokyonight&hide_border=true&title_color=60a5fa" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=koushik1133&theme=tokyonight&hide_border=true&stroke=60a5fa" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koushik1133&theme=tokyonight" alt="Profile Summary Stats" width="48%" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=2,14,24,35,42&height=3&width=100%" alt="Divider"/>
 
 ## 📫 Connect & Collaborate
 
 <div align="center">
-  <p>I'm always open to discussing <strong>autonomous agent architectures, production AI systems, distributed platforms, or software engineering opportunities</strong>.</p>
+  <p>I'm always open to discussing <b>autonomous agent architectures, production AI systems, distributed platforms, or software engineering opportunities</b>.</p>
 
   <a href="https://www.linkedin.com/in/koushik-shaganti">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -380,5 +337,5 @@
 <br/>
 
 <div align="center">
-  <sub>Built with high velocity using <strong>Claude Code</strong> &amp; <strong>Google Antigravity SDK</strong>. Star ⭐ this repository if you find it helpful!</sub>
+  <sub>⭐️ <i>Feel free to star this repository and connect for collaborations!</i> 🚀</sub>
 </div>
