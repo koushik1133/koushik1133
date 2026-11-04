@@ -1,19 +1,27 @@
+<!-- ========================================================= -->
+<!--               KOUSHIK GOUD SHAGANTI PROFILE               -->
+<!-- ========================================================= -->
+
+<!-- ========================== HEADER ========================== -->
+
 <div align="center">
 
-<!-- Hero Animated Banner -->
-<img src="https://raw.githubusercontent.com/koushik1133/koushik1133/main/assets/coding-banner.gif?v=2" width="100%" alt="Coding Animation Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=Koushik%20Goud%20Shaganti&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Systems%20%26%20Automation%20%F0%9F%9A%80&descAlignY=62&descSize=20"/>
 
-# Hey there, I'm Koushik Goud Shaganti 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Software+Engineer+-+AI+Systems+%26+Automation;Autonomous+Multi-Agent+DAGs+%26+Enterprise+RAG+Architectures;Production+Full-Stack+%7C+AWS%2C+GCP+Cloud+Run+%26+Supabase;Anthropic+Certified%3A+Claude+101+%26+AI+Fluency;Iowa+State+University+CS+'26+(GPA%3A+3.68%2F4.00);Building+Scalable%2C+Fault-Tolerant+%26+Intelligent+Systems"/>
+</p>
 
-<!-- Readme Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=Software+Engineer+-+AI+Systems+%26+Automation;Production+Full-Stack+%7C+Real-Time+Distributed+Systems;Multi-Agent+Orchestration+%26+RAG+Architectures;Anthropic+Certified%3A+Claude+101+%26+AI+Fluency;Iowa+State+University+CS+'26+(GPA%3A+3.68%2F4.00)" alt="Typing SVG" />
-</a>
-
-<!-- Profile Views & Social Badges -->
+<!-- Dynamic Badges & Metric Counters -->
 <p align="center">
   <a href="https://github.com/koushik1133">
-    <img src="https://komarev.com/ghpvc/?username=koushik1133&label=PROFILE%20VIEWS&style=for-the-badge&color=8A2BE2" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=koushik1133&label=PROFILE+VIEWS&style=for-the-badge&color=8A2BE2" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/koushik1133">
+    <img src="https://img.shields.io/github/followers/koushik1133?style=for-the-badge&color=00F7FF" alt="Followers"/>
+  </a>
+  <a href="https://github.com/koushik1133">
+    <img src="https://img.shields.io/github/stars/koushik1133?style=for-the-badge&color=blue" alt="Stars"/>
   </a>
   <a href="https://koushik9.me">
     <img src="https://img.shields.io/badge/Portfolio-koushik9.me-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
@@ -28,61 +36,113 @@
 
 <!-- Quick Bio Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Software_Engineer_%40_LANE_Trailer_Mfg.-blue?style=flat-square&logo=target" alt="Current Role"/>
-  <img src="https://img.shields.io/badge/Education-Iowa_State_University_BS_CS_3.68_GPA-C8102E?style=flat-square&logo=iastate" alt="Education"/>
-  <img src="https://img.shields.io/badge/Location-Boone_%2F_Ames%2C_Iowa%2C_USA-green?style=flat-square&logo=googlemaps" alt="Location"/>
+  <img src="https://img.shields.io/badge/Role-Software_Engineer_%40_LANE_Trailer_Mfg.-00F7FF?style=flat-square&logo=target&logoColor=black" alt="Current Role"/>
+  <img src="https://img.shields.io/badge/Education-Iowa_State_University_BS_CS_3.68_GPA-C8102E?style=flat-square&logo=iastate&logoColor=white" alt="Education"/>
+  <img src="https://img.shields.io/badge/Production_Commits-598%2B_Active_Shop_Floor-blueviolet?style=flat-square&logo=git&logoColor=white" alt="Production Commits"/>
+  <img src="https://img.shields.io/badge/Location-Boone_%2F_Ames%2C_Iowa%2C_USA-green?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=2,14,24,35,42&height=3&width=100%" alt="Divider"/>
 
-## 🚀 About Me
+<!-- ========================== RETRO CODER HERO ========================== -->
+
+<p align="center">
+  <img width="100%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Retro Programmer Coding"/>
+</p>
+
+# 🚀 ABOUT ME
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="62%" valign="top">
       <ul>
-        <li>🎓 <b>B.S. in Computer Science</b> graduate from <b>Iowa State University</b> (GPA: 3.68 / 4.00).</li>
-        <li>💼 <b>Software Engineer – AI Systems & Automation</b> at <b>LANE Trailer Mfg.</b> (converted from co-op based on measurable business impact).</li>
+        <li>🎓 <b>B.S. in Computer Science</b> from <b>Iowa State University</b> (GPA: <b>3.68 / 4.00</b>).</li>
+        <li>💼 <b>Software Engineer – AI Systems & Automation</b> at <b>LANE Trailer Mfg.</b> (converted from co-op based on measurable manufacturing ROI).</li>
         <li>🧠 Architecting <b>Autonomous Multi-Agent DAGs</b>, enterprise <b>RAG pipelines</b>, and context-aware business intelligence.</li>
-        <li>⚡ Building scalable production systems using <b>React, Next.js 15, Node.js, TypeScript, Python, and Java Spring Boot</b>.</li>
-        <li>☁️ Designing high-throughput cloud backends on <b>AWS (Aurora DSQL, DynamoDB), Google Cloud Run, Supabase, and Docker</b>.</li>
-        <li>🤖 Engineering <b>physical edge AI robotics</b> (Raspberry Pi 4, YOLOv8 computer vision, Whisper speech models).</li>
+        <li>⚡ Building scalable production systems using <b>React, Next.js 15, Node.js, TypeScript, Python & Java Spring Boot</b>.</li>
+        <li>☁️ Designing high-throughput cloud backends on <b>AWS (Aurora DSQL, DynamoDB), Google Cloud Run, Supabase & Docker</b>.</li>
+        <li>🤖 Engineering <b>Physical Edge AI Robotics</b> (Raspberry Pi 4, YOLOv8 computer vision, Whisper speech models, WebRTC).</li>
         <li>📜 <b>Anthropic Certified</b>: <i>Claude 101</i> & <i>AI Fluency: Framework & Foundations</i>.</li>
-        <li>🏆 Selected project presenter at the <b>AI Builders Hackathon (OpenAI x Outskill)</b>.</li>
-        <li>📫 Ask me about <b>distributed architectures, agentic workflows, or real-time sync</b>!</li>
+        <li>🏆 Selected Presenter at the <b>AI Builders Hackathon (OpenAI x Outskill)</b>.</li>
+        <li>🏭 Authored <b>598+ Production Commits & 500+ Deployments</b> on live factory management systems.</li>
+        <li>🔥 Passionate about <b>Autonomous Systems, Distributed Architectures & Real-Time Sync</b>!</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/koushik1133/koushik1133/main/assets/developer-typing.gif?v=2" width="100%" alt="Coding Animation" />
+    <td width="38%" align="center" valign="middle">
+      <img width="100%" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Developer Typing Animation"/>
     </td>
   </tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=2,14,24,35,42&height=3&width=100%" alt="Divider"/>
 
-## ⚡ Executive Impact & Engineering Highlights
+<!-- ========================== SYSTEM TERMINAL ========================== -->
 
+# ⚡ SYSTEM TERMINAL
+
+```yaml
+engineer:
+  name: Koushik Goud Shaganti
+  role: Software Engineer – AI Systems & Automation
+  organization: LANE Trailer Mfg.
+  education: Iowa State University (B.S. Computer Science, GPA: 3.68/4.00)
+  location: Ames / Boone, Iowa, USA
+
+certifications:
+  - Anthropic: Claude 101 (Jul 2026)
+  - Anthropic: AI Fluency - Framework & Foundations (Jul 2026)
+  - OpenAI x Outskill AI Builders Hackathon Presenter (May 2026)
+
+core_specialization:
+  - Multi-Agent Orchestration & Autonomous DAGs
+  - Enterprise RAG Pipelines & Vector Search (Pinecone, LanceDB)
+  - Full-Stack Web Architecture (Next.js 15, React, Node.js, TypeScript)
+  - Distributed Backend & Cloud (AWS Aurora DSQL, DynamoDB, GCP Cloud Run)
+  - Real-Time Synchronization (WebSockets, WebRTC, Supabase Realtime)
+  - Physical Edge AI Robotics (Raspberry Pi 4, YOLOv8, Whisper)
+
+production_footprint:
+  factory_management: "598+ Commits | 500+ Production Deployments"
+  manufacturing_gain: "+40% Shop Floor Throughput | -80% CAD Drafting Time"
 ```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=2,14,24,35,42&height=3&width=100%" alt="Divider"/>
+
+<!-- ========================== EXECUTIVE IMPACT ========================== -->
+
+# ⚡ EXECUTIVE IMPACT & ENGINEERING HIGHLIGHTS
+
+```text
 ┌────────────────────────┬────────────────────────┬────────────────────────┐
-│   +40% Shop Efficiency │   -80% Engineering Time│  60%+ Repetitive Tasks │
+│   +40% Shop Efficiency │   -80% Drafting Time   │  60%+ Repetitive Tasks │
 │  Real-Time Kanban & TV │  Python & iLogic CAD   │  Autonomous n8n Agents │
 │  Floor Production Mgt  │  Inventor + Excel BOM  │  Claude & Gemini APIs  │
 ├────────────────────────┼────────────────────────┼────────────────────────┤
-│   <200ms p99 Latency   │   95% Safety Precision │   +43% E-Commerce Surge│
-│  Hybrid AWS Aurora     │  Dual-LLM Voice Triage │  Custom Liquid Theme   │
-│  DSQL + DynamoDB Layer │  Whisper + Guardrails  │  & Technical SEO Schema│
+│   <200ms p99 Latency   │   95% Safety Precision │  598+ Commits Shipped  │
+│  Hybrid AWS Aurora     │  Dual-LLM Voice Triage │  500+ Live Production  │
+│  DSQL + DynamoDB Layer │  Whisper + Guardrails  │  Deployments on Vercel │
 └────────────────────────┴────────────────────────┴────────────────────────┘
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=2,14,24,35,42&height=3&width=100%" alt="Divider"/>
 
-## 🛠️ Technical Arsenal
+<!-- ========================== TECH STACK ========================== -->
+
+<p align="center">
+  <img width="100%" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Tech Stack Coding Banner"/>
+</p>
+
+# 💻 TECH ARSENAL
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,c,cs,html,css,react,nextjs,nodejs,express,spring,fastapi,flask,electron,tailwind,postgres,mongodb,mysql,supabase,redis,aws,gcp,cloudflare,docker,git,github,linux" alt="Skills Map"/>
+</p>
 
 <div align="center">
 
-### AI, Machine Learning & Autonomous Agents
+### 🤖 AI, Machine Learning & Autonomous Agents
 <p align="center">
   <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude"/>
   <img src="https://img.shields.io/badge/Google_Gemini_1.5_Pro-886CE4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"/>
@@ -100,7 +160,7 @@
   <img src="https://img.shields.io/badge/Whisper_Speech-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper"/>
 </p>
 
-### Programming Languages
+### 🛠️ Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -114,7 +174,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-### Frameworks, Libraries & Full-Stack
+### 🌐 Frameworks & Full-Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js 15"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -129,7 +189,7 @@
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/>
 </p>
 
-### Cloud, DevOps & Databases
+### ☁️ Cloud, DevOps & Databases
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Google_Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Run"/>
@@ -148,71 +208,106 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=2,14,24,35,42&height=3&width=100%" alt="Divider"/>
 
-## 📂 Flagship Engineering Projects
+<!-- ========================== FEATURED PROJECTS ========================== -->
+
+# 🚀 FLAGSHIP ENGINEERING PROJECTS
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/koushik1133/build-chat-task-javis">KernelHub (Javis) – AI Business OS</a></h3>
-      <em>Next.js 15, Supabase, AWS (Aurora DSQL, DynamoDB), Pinecone, Groq, Google Cloud Run</em>
-      <ul>
-        <li>Unified AI business platform consolidating 5+ enterprise workflows (RAG chat, automated GitHub PR reviews, Kanban, NL-to-SQL, site builder).</li>
-        <li>Architected hybrid AWS storage: Aurora DSQL for relational metadata and DynamoDB for sub-200ms p99 write latency.</li>
-        <li>Enterprise RAG vector store with Pinecone parsing PDFs with source citation; automated cron scheduler triggering Slack/email agents.</li>
-      </ul>
-    </td>
+
+### 🌐 [KernelHub (Javis) – AI Business OS](https://github.com/koushik1133/build-chat-task-javis)
+*Next.js 15 • Supabase • AWS Aurora DSQL + DynamoDB • Pinecone • Groq • Cloud Run*
+
+#### ⚡ Highlights
+- Unified AI business platform consolidating 5+ enterprise workflows (RAG chat, automated GitHub PR reviews, Kanban, NL-to-SQL, site builder).
+- Architected hybrid AWS storage: Aurora DSQL for relational integrity + DynamoDB for sub-200ms p99 write latency.
+- Enterprise PDF RAG with Pinecone vector embeddings & automated agent crons.
+
+#### 🛠️ Stack
+`Next.js 15` `Supabase` `AWS DSQL` `DynamoDB` `Pinecone` `Groq`
+
+</td>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/koushik1133/Mekk-The-Robot">Mekk – Edge AI Exploration Robot</a></h3>
-      <em>Python, Raspberry Pi 4, Linux, OpenCV, YOLOv8n, Whisper, TinyLlama, Coqui TTS, WebRTC</em>
-      <ul>
-        <li>Autonomous physical robotics platform combining computer vision, speech recognition, and sensor fusion on embedded hardware.</li>
-        <li>Modular perception pipeline with YOLOv8n and 4 ultrasonic sensors for real-time obstacle avoidance and target tracking.</li>
-        <li>Hands-free voice pipeline (Whisper wake-word &rarr; TinyLlama command interpretation &rarr; Coqui TTS voice response) + WebRTC live streaming.</li>
-      </ul>
-    </td>
+
+### 🤖 [Mekk – Edge AI Exploration Robot](https://github.com/koushik1133/Mekk-The-Robot)
+*Python • Raspberry Pi 4 • Linux • OpenCV • YOLOv8n • Whisper • TinyLlama • WebRTC*
+
+#### ⚡ Highlights
+- Autonomous physical robotics platform combining computer vision, speech recognition, and sensor fusion on embedded hardware.
+- Real-time perception pipeline pairing YOLOv8n object detection with ultrasonic obstacle avoidance.
+- Hands-free voice loop: Whisper wake-word &rarr; TinyLlama reasoning &rarr; Coqui TTS & WebRTC video.
+
+#### 🛠️ Stack
+`Python` `Raspberry Pi 4` `YOLOv8` `Whisper` `WebRTC` `Linux`
+
+</td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🖥️ <a href="https://github.com/koushik1133/open-claw-agent">OpenClaw AI Command Center</a></h3>
-      <em>Python, Electron, Node.js, SQLite, ThreadPoolExecutor, Ollama, LanceDB</em>
-      <ul>
-        <li>Desktop AI platform supporting workflow orchestration, file indexing, and completely offline local LLM execution.</li>
-        <li>Multithreaded execution engine using ThreadPoolExecutor for low-latency asynchronous task scheduling.</li>
-        <li>Local semantic search with LanceDB vector storage; integrated Slack and Telegram remote dispatch bots.</li>
-      </ul>
-    </td>
+
+### 🖥️ [OpenClaw AI Command Center](https://github.com/koushik1133/open-claw-agent)
+*Python • Electron • Node.js • SQLite • ThreadPoolExecutor • Ollama • LanceDB*
+
+#### ⚡ Highlights
+- Desktop AI platform supporting multi-step agent orchestration, file indexing, and completely offline local LLM execution.
+- Multithreaded execution engine with ThreadPoolExecutor for low-latency asynchronous task scheduling.
+- Local semantic search with LanceDB vector storage; integrated Slack & Telegram remote dispatch bots.
+
+#### 🛠️ Stack
+`Python` `Electron` `Ollama` `LanceDB` `SQLite` `ThreadPool`
+
+</td>
     <td width="50%" valign="top">
-      <h3>🩺 <a href="https://github.com/koushik1133/doctor-agent">Doctor Agent – Medical Triage Assistant</a></h3>
-      <em>Next.js 15, Groq, Llama 3.3 70B, Whisper-large-v3, Supabase</em>
-      <ul>
-        <li>Voice intake health assistant featuring Whisper-large-v3 speech-to-text paired with deterministic dual-LLM clinical safety classifiers.</li>
-        <li><b>Reduced missed critical emergency triage cases by 95%</b> with automated escalation flags.</li>
-        <li>Proactive recovery tracking scheduler storing symptom analytics over longitudinal patient records.</li>
-      </ul>
-    </td>
+
+### 🩺 [Doctor Agent – Medical Triage Assistant](https://github.com/koushik1133/doctor-agent)
+*Next.js 15 • Groq • Llama 3.3 70B • Whisper-large-v3 • Supabase*
+
+#### ⚡ Highlights
+- Voice intake health assistant featuring Whisper-large-v3 paired with deterministic dual-LLM clinical safety classifiers.
+- **Reduced missed critical emergency triage cases by 95%** with automated escalation flags.
+- Proactive recovery tracking scheduler storing symptom analytics over longitudinal patient records.
+
+#### 🛠️ Stack
+`Next.js 15` `Llama 3.3 70B` `Whisper-large-v3` `Supabase` `Groq`
+
+</td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🕹️ <a href="https://github.com/koushik1133/DonkeyKong">Donkey Kong – Real-Time Multiplayer Backend</a></h3>
-      <em>Java, Spring Boot, WebSockets, Hibernate ORM, MySQL, Maven</em>
-      <ul>
-        <li>Scalable game server architecture supporting synchronized real-time player physics, collision detection, and in-game chat.</li>
-        <li>Bidirectional WebSocket messaging layer achieving <b>sub-100ms state synchronization</b> under concurrent load.</li>
-        <li>Clean domain-driven separation between game loop logic, session handlers, and Hibernate persistence.</li>
-      </ul>
-    </td>
+
+### 🕹️ [Donkey Kong – Real-Time Multiplayer Backend](https://github.com/koushik1133/DonkeyKong)
+*Java • Spring Boot • WebSockets • Hibernate ORM • MySQL • Maven*
+
+#### ⚡ Highlights
+- Scalable game server architecture supporting synchronized real-time player physics, collision detection, and in-game chat.
+- Bidirectional WebSocket messaging layer achieving **sub-100ms state synchronization** under concurrent load.
+- Domain-driven separation between game loop logic, session handlers, and Hibernate persistence.
+
+#### 🛠️ Stack
+`Java` `Spring Boot` `WebSockets` `Hibernate` `MySQL`
+
+</td>
     <td width="50%" valign="top">
-      <h3>⚖️ <a href="https://github.com/koushik1133/ArguVista-Cloudflare">ArguVista – Serverless AI Debate Platform</a></h3>
-      <em>Cloudflare Workers, Workers AI, KV Storage, WebRTC, JavaScript</em>
-      <ul>
-        <li>Distributed edge platform establishing ultra-low latency peer-to-peer WebRTC debate streams with automatic serverless failover.</li>
-        <li>Edge-based LLM parsing evaluating debate transcripts in real-time, providing immediate structured argumentation feedback.</li>
-      </ul>
-    </td>
+
+### ⚖️ [ArguVista – Serverless AI Debate Platform](https://github.com/koushik1133/ArguVista-Cloudflare)
+*Cloudflare Workers • Workers AI • KV Storage • WebRTC • JavaScript*
+
+#### ⚡ Highlights
+- Distributed edge platform establishing ultra-low latency peer-to-peer WebRTC debate streams with automatic serverless failover.
+- Edge-based LLM parsing evaluating debate transcripts in real-time, providing immediate structured argumentation feedback.
+
+#### 🛠️ Stack
+`Cloudflare Workers` `Workers AI` `KV Storage` `WebRTC` `JavaScript`
+
+</td>
   </tr>
 </table>
 
-<!-- Collapsible Details Sections -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=2,14,24,35,42&height=3&width=100%" alt="Divider"/>
+
+<!-- ========================== COLLAPSIBLE DEEP DIVES ========================== -->
+
 <details>
   <summary><b>🔍 Click to expand: Professional Experience Deep-Dive</b></summary>
   <br/>
@@ -262,6 +357,7 @@
 **Cognifyz Technologies** | *Remote* | **May 2024 – Jul 2024**  
 *Tech: Python, Flask, Power BI, PostgreSQL, GitLab CI/CD, Postman, Agile*
 * Engineered backend REST APIs and interactive Power BI executive reporting dashboards, cutting reporting turnaround from days to minutes.
+
 </details>
 
 <details>
@@ -271,71 +367,101 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 Education</h3>
-      <p><strong>Iowa State University</strong><br/>
-      <em>Bachelor of Science in Computer Science</em><br/>
-      Graduated: May 2026 | <strong>GPA: 3.68 / 4.00</strong></p>
-      <p><strong>Key Coursework:</strong><br/>
-      Artificial Intelligence, Machine Learning, Data Structures & Algorithms, Operating Systems, Web Development, Software Engineering SDLC.</p>
-    </td>
+
+### 🎓 Education
+**Iowa State University**  
+*Bachelor of Science in Computer Science*  
+Graduated: May 2026 | **GPA: 3.68 / 4.00**
+
+**Key Coursework:**  
+Artificial Intelligence, Machine Learning, Data Structures & Algorithms, Operating Systems, Web Development, Software Engineering SDLC.
+
+</td>
     <td width="50%" valign="top">
-      <h3>📜 Certifications & Honors</h3>
-      <ul>
-        <li><strong>Anthropic: Claude 101</strong> (Jul 2026)</li>
-        <li><strong>Anthropic: AI Fluency: Framework & Foundations</strong> (Jul 2026)</li>
-        <li><strong>AI Builders Hackathon (OpenAI x Outskill)</strong> – Selected Project Presenter (May 2026)</li>
-        <li><strong>Blockchain Hackathon Winner Profile</strong> – Anurag University (2025)</li>
-        <li><strong>Cognifyz Technologies</strong> – Full Stack Development Certified (2025)</li>
-        <li><strong>Complete Data Science, ML, Statistics & Python</strong> – Udemy (2025)</li>
-      </ul>
-    </td>
+
+### 📜 Certifications & Honors
+- 🏅 **Anthropic: Claude 101** (Jul 2026)
+- 🏅 **Anthropic: AI Fluency: Framework & Foundations** (Jul 2026)
+- 🚀 **AI Builders Hackathon (OpenAI x Outskill)** – Selected Presenter (May 2026)
+- 🏆 **Blockchain Hackathon Winner** – Anurag University (2025)
+- 📜 **Full Stack Development Certified** – Cognifyz Technologies (2025)
+- 📜 **Complete Data Science, ML & Python** – Udemy (2025)
+
+</td>
   </tr>
 </table>
 
 ### 🤝 Leadership & Community Involvement
-* **AI Builders Hackathon (OpenAI x Outskill)** – Selected Project Presenter (May 2026).
-* **Google Developer Groups (GDG)** – Active Member participating in AI & cloud developer communities (2025 – 2026).
-* **Artificial Intelligence & Machine Learning Club** – Technical Board Associate (2025 – Present).
-* **Software Development Club** – Core Engineering Peer Reviewer (2024 – 2025).
+- **AI Builders Hackathon (OpenAI x Outskill)** – Selected Project Presenter (May 2026).
+- **Google Developer Groups (GDG)** – Active Member participating in AI & cloud developer summits.
+- **Artificial Intelligence & Machine Learning Club** – Technical Board Associate.
+- **Software Development Club** – Core Engineering Peer Reviewer.
+
 </details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=2,14,24,35,42&height=3&width=100%" alt="Divider"/>
 
-## 📊 Profile Insights & GitHub Analytics
+<!-- ========================== GITHUB STREAK & ANALYTICS ========================== -->
+
+# 🔥 GITHUB STREAK & REPOSITORY METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=koushik1133&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&title_color=60a5fa&icon_color=3b82f6" alt="Koushik's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=koushik1133&layout=compact&theme=tokyonight&hide_border=true&title_color=60a5fa" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=koushik1133&theme=tokyonight&hide_border=true&stroke=00F7FF" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=koushik1133&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&title_color=00F7FF&icon_color=60a5fa" alt="GitHub Statistics" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=koushik1133&theme=tokyonight&hide_border=true&stroke=60a5fa" alt="GitHub Streak" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koushik1133&theme=tokyonight" alt="Profile Summary Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=koushik1133&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF" alt="Top Languages" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koushik1133&theme=tokyonight" alt="GitHub Profile Stats" width="49%"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=2,14,24,35,42&height=3&width=100%" alt="Divider"/>
 
-## 📫 Connect & Collaborate
+<!-- ========================== PROFILE INSIGHTS DASHBOARD ========================== -->
 
-<div align="center">
-  <p>I'm always open to discussing <b>autonomous agent architectures, production AI systems, distributed platforms, or software engineering opportunities</b>.</p>
+# 📌 PROFILE INSIGHTS & DEV DASHBOARD
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koushik1133&theme=tokyonight" alt="Profile Details Dashboard" width="98%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koushik1133&theme=tokyonight" alt="Repos per Language" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=koushik1133&theme=tokyonight" alt="Most Commit Language" width="49%"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=2,14,24,35,42&height=3&width=100%" alt="Divider"/>
+
+<!-- ========================== CONNECT & FOOTER ========================== -->
+
+# 🌐 CONNECT WITH ME
+
+<p align="center">
   <a href="https://www.linkedin.com/in/koushik-shaganti">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="52" alt="LinkedIn"/>
   </a>
-  <a href="https://koushik9.me">
-    <img src="https://img.shields.io/badge/Website-koushik9.me-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:skoushik0909@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/koushik1133">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" height="52" alt="GitHub"/>
   </a>
-</div>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://koushik9.me">
+    <img src="https://skillicons.dev/icons?i=vercel" height="52" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:skoushik0909@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="52" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  I'm always open to discussing <b>autonomous agent architectures, production AI systems, distributed platforms, or software engineering opportunities</b>.
+</p>
 
 <br/>
 
-<div align="center">
-  <sub>⭐️ <i>Feel free to star this repository and connect for collaborations!</i> 🚀</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:302b63&height=120&section=footer" width="100%"/>
+
+<h3 align="center">
+  ⚡ Code • Build • Scale • Automate ⚡
+</h3>
